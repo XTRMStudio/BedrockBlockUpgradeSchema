@@ -1,0 +1,2 @@
+# BedrockBlockUpgradeSchema
+Independent continuation mirror of pmmp/BedrockBlockUpgradeSchema
